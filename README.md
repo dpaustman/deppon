@@ -1,1 +1,1 @@
-https://blog.csdn.net/s3275492383/article/details/64919908?depth_1-utm_source=distribute.pc_relevant.none-task&utm_source=distribute.pc_relevant.none-task
+wget http://archive.download.redhat.com/pub/redhat/linux/7.0/en/os/i386/RedHat/RPMS/rpm-build-4.0-4.i386.rpm
