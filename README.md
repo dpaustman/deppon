@@ -40,3 +40,4 @@ if __name__ == '__main__':
     detector.create_node('/data', 'nihao')
     detector.query()
     time.sleep(10)
+https://blog.csdn.net/u012965373/article/details/77896512
