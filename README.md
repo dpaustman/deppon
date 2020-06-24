@@ -42,3 +42,4 @@ if __name__ == '__main__':
     detector.query()
     time.sleep(10)
 https://blog.csdn.net/u012965373/article/details/77896512
+https://blog.csdn.net/book_mmicky/article/details/39956809
