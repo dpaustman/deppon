@@ -1,6 +1,7 @@
 wget http://archive.download.redhat.com/pub/redhat/linux/7.0/en/os/i386/RedHat/RPMS/rpm-build-4.0-4.i386.rpm
 https://www.cnblogs.com/wongbingming/p/11086773.html
 https://www.cnblogs.com/luozhiyun/p/13351499.html  k8s
+https://blog.51cto.com/14483703/2432616 zabbix 联想
 #-*- coding: utf-8 -*-
 import time
 from kazoo.client import KazooClient
